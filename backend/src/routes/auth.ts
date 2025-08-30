@@ -6,4 +6,4 @@ Route.post('/signup',signup);
 Route.post('/signin',signin);
 
 
-export default Router;
+export default Route;
